@@ -1,7 +1,7 @@
 # League of Legends
 League of Legends is one of the top Multiplayer Online Battle Arena (MOBA) which was developed and publiced by <b>Riot Games</b>. The ultimate goal of team players is how to win the game in which each game divides into two teams which are red and blue teams. The basic principle to win is that which team reaches the base and destroys the nexus faster than the other will end the game whilst defending their own base. However, there are many factors that a team can win a game ranging from blood, baron, dragon to towers, inhibitors. The players stated that these factors mentioned above contributed the most for the winning team.
 Source: https://en.wikipedia.org/wiki/League_of_Legends <br>
-![League of Legends Champions](https://github.com/MQCOMP6200-2020-S1/group-project-group-h/blob/master/league-of-legends-warriors-season-2020.jpg)
+![League of Legends Champions](/league-of-legends-warriors-season-2020.jpg)
 Image_Source: https://selphie1999.weebly.com/lol-league-of-legends-warriors-season-2020-trailer-revealed.html
 
 ## Hypothesis
