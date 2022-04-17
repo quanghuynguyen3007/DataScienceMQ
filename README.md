@@ -20,7 +20,7 @@ Source: https://developer.riotgames.com/apis
 
 ## Using Riot API
 With a good understanding of Leagued of legend as well as following the kaggle project mentioned above, the team decided to select the 48 most important information for a match. Here are some features according to the correlation. <br>
-![Correlation Features ](https://github.com/MQCOMP6200-2020-S1/group-project-group-h/blob/master/LoL_Features.PNG)
+![Correlation Features ](/LoL_Features.PNG)
 
 ## Analysis Techniques
 * <b>Linear Regression</b> <br>
